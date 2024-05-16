@@ -1,0 +1,46 @@
+RecordCount: 480
+   
+console load ChineseNewYear2024/0-Lobbies/0-Prologue 
+   1
+
+#Start
+ 110
+
+#lvl_a_intro
+   1,S
+   1,D,J
+  69,O
+   1,L,J
+   4,Z
+   6,R,J
+   1,R
+   2,R,J
+   2,R
+   3,R,J
+   8,R,D,X
+   1,R,K,G
+  11,R
+   6,R,J
+   3,R
+  15,R,D,X
+  40
+
+#lvl_a_intro2
+   1,R,J
+   3,R
+   7,R,U,X
+   3,R,K,G
+   1,R
+   6,R,K
+   4,R
+   2,R,J
+  19,R,D,X
+   3,R,J
+  14,R,D,X
+   1,N
+   1,S
+   1,D,J
+ 135
+
+
+ChapterTime: 0:05.950(350)

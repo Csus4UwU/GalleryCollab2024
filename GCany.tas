@@ -1,0 +1,313 @@
+Unsafe
+
+console overworld
+
+EnforceLegal
+
+   1
+
+#Start
+
+  64
+   1,O
+ 102
+   1,O
+  85
+   1,D
+   1,F,180
+   1,O
+  30
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,U
+   1,F,0
+   1,U
+   1,O
+  44
+   1,D
+   1,R
+   1,D
+   1,O
+   1,U
+   1,L
+   1,U
+   1,O
+   1,D
+   1,F,180
+   1,O
+   1,D
+   1,F,180
+   1,D
+   1,R
+   1,F,90
+   1,R
+   1,O
+  48
+   1,U
+   1,O
+   1
+Read, Prologue.tas, Start
+  57
+   1,O
+  30
+   1,O
+  46
+Read, 0-1.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, blueberry_jelly_valley.tas, Start
+  92
+Read, 1-5.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, afterrain.tas, Start
+  92
+Read, 5-3.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, afterglow_summit.tas, Start
+  92
+Read, 3-4.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+ 185
+   1,J
+ 136
+Read, season_traveller.tas, Start
+  92
+Read, 4-2.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, ruins_of_tem.tas, Start
+  92
+Read, 2-6.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, starlight_summit.tas, Start
+  92
+Read, 6-7.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, B612.tas, Start
+  92
+Read, 7-8.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, stardust_ruins.tas, Start
+  92
+Read, 8-9.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, gravity_flow.tas, Start
+  92
+Read, 9-14.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, dream_in_rhythm.tas, Start
+  92
+Read, 14-13.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, hazy_space.tas, Start
+  92
+Read, 13-12.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, covered_with_dust.tas, Start
+  92
+Read, 12-11.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, sailing_star_phantom.tas, Start
+  92
+Read, 11-10.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, momentum_purgatory.tas, Start
+  92
+Read, 10-15.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, dream_ridge.tas, Start
+  92
+Read, 15-19.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, red_horizon.tas, Start
+  92
+Read, 19-22.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, reality_209.tas, Start
+  92
+Read, 22-20.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, madeline_shovel.tas, Start
+  92
+Read, 20-16.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, game_development_department.tas, Start
+  92
+Read, 16-17.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, terminal.tas, Start
+  92
+Read, 17-18.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, reverse_unreversed.tas, Start
+  92
+Read, 18-21.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, cyber_roam.tas, Start
+  92
+Read, 21-23.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, bloom_wanderer.tas, Start
+  92
+Read, 23-24.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, city_in_silence.tas, Start
+  92
+Read, 24-25.tas, Start
+  20
+   1,O
+  30
+   1,O
+  46
+Read, FR-C2.tas, Start
+  92
+Read, 25-26.tas, Start
+  20
+   1,O
+  46
+ 185
+   1,J
+ 136
+Read, kaleidoscope_through_the_art.tas, Start
+ 300
+   1,O
+ 900
+   1,O
+  90
+   1,O
+ 236
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+   1,N
+ 180
+   1,R
+ 300
+   1,R
+ 300
+   1,R
+ 300
+   1,X
+ 300

@@ -1,0 +1,30 @@
+console load ChineseNewYear2024/0-Lobbies/1-Maps 2352 120
+   1
+
+#Start
+  36
+   1,R,J
+  14,L,D,X
+   4,L,J
+  19,L,D,X
+   1,L,D,J
+   2,L,K,G
+   1,L,J,G
+   1,L,K,G
+   2,L
+  20,L,D,X
+  15,D,C
+   8,L
+ 238
+   5,L
+   1,L,J
+  10,R,D,X
+   1,R,J
+   4,R,K,G
+   1,R
+   5,R,J,G
+   1,R
+  10,R,Z
+   1,R,J
+   1,N
+#0:05.865(345)
